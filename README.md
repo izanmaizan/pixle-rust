@@ -1,6 +1,6 @@
 # Pixle
 
-Layanan kompres dan resize gambar. Backend Rust untuk belajar async, streaming upload, worker, dan penanganan error.
+Layanan kompres dan resize gambar. Backend Rust untuk async, streaming upload, worker, dan penanganan error.
 
 ## Tech stack
 
